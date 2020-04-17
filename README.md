@@ -34,7 +34,7 @@ Nikunj Dalsaniya
 
 Software Systems (Data Science), Birla Institute of Technology (WILP), Vidya Vihar, Pilani, Rajasthan - 333031, India
 
-Sapan Mankad (https://scholar.google.co.in/citations?user=hZ88OoYAAAAJ&hl=en)
+Sapan H Mankad (https://scholar.google.co.in/citations?user=hZ88OoYAAAAJ&hl=en)
 
 # Release Note :
 
