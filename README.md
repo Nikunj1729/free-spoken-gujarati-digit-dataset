@@ -10,7 +10,7 @@
 
   20 speakers
   
-  2,000 recordings (10 of each digit per speaker)
+  1940 recordings
   
   Gujarati pronunciations
   
