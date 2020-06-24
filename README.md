@@ -44,8 +44,8 @@
 
   Kindly refer the following paper which is under publication 
 
-  << LINK>>
+  https://link.springer.com/chapter/10.1007/978-981-15-4828-4_18
 
   If you use this dataset for any of your research work, kindly cite this paper as:
 
-  << CITATION ENTRY>>
+  Development of a Novel Database in Gujarati Language for Spoken Digits Classification (Dalsaniya N., Mankad S.H., Garg S., Shrivastava D. (2020)). In: Thampi S. et al. (eds) Advances in Signal Processing and Intelligent Recognition Systems. SIRS 2019. Communications in Computer and Information Science, vol 1209. Springer, Singapore
